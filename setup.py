@@ -10,7 +10,7 @@ def readme():
 
 setuptools.setup(
     name='vstc',
-    version='1.0.0',
+    version='1.0.1',
     author='Ding Yi',
     author_email='dvdface@hotmail.com',
     url='https://github.com/dvdface/vstc',
