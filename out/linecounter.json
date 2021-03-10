@@ -1,0 +1,96 @@
+{
+    "extension": "linecounter",
+    "version": "0.2.7",
+    "workspace": "d:\\Documents\\VSCode_Files\\vstc",
+    "linecount": [
+        {
+            "version": "0.2.7",
+            "counttime": "2021-03-10 14:18:53",
+            "filesum": 12,
+            "codesum": 1305,
+            "commentsum": 60,
+            "blanksum": 858,
+            "statistics": {
+                ".py": {
+                    "code": 1305,
+                    "comment": 60,
+                    "blank": 858
+                }
+            },
+            "filelist": [
+                {
+                    "blank": 0,
+                    "code": 9,
+                    "comment": 0,
+                    "filename": "res\\img2bytes.py"
+                },
+                {
+                    "blank": 4,
+                    "code": 24,
+                    "comment": 2,
+                    "filename": "setup.py"
+                },
+                {
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0,
+                    "filename": "test\\__init__.py"
+                },
+                {
+                    "blank": 14,
+                    "code": 30,
+                    "comment": 0,
+                    "filename": "test\\test_chassis.py"
+                },
+                {
+                    "blank": 70,
+                    "code": 142,
+                    "comment": 0,
+                    "filename": "test\\test_device.py"
+                },
+                {
+                    "blank": 7,
+                    "code": 20,
+                    "comment": 0,
+                    "filename": "test\\test_mcgroup.py"
+                },
+                {
+                    "blank": 5,
+                    "code": 11,
+                    "comment": 0,
+                    "filename": "test\\test_port.py"
+                },
+                {
+                    "blank": 30,
+                    "code": 60,
+                    "comment": 0,
+                    "filename": "test\\test_stream.py"
+                },
+                {
+                    "blank": 7,
+                    "code": 13,
+                    "comment": 0,
+                    "filename": "test\\test_util.py"
+                },
+                {
+                    "blank": 10,
+                    "code": 54,
+                    "comment": 3,
+                    "filename": "vstc\\__init__.py"
+                },
+                {
+                    "blank": 671,
+                    "code": 871,
+                    "comment": 50,
+                    "filename": "vstc\\testcenter.py"
+                },
+                {
+                    "blank": 40,
+                    "code": 71,
+                    "comment": 5,
+                    "filename": "vstc\\util.py"
+                }
+            ]
+        }
+    ]
+}
